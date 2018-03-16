@@ -6,7 +6,4 @@ attr_accessor :name, :type, :database
     @type = type
     @database = db
   end
-
-
-
 end
